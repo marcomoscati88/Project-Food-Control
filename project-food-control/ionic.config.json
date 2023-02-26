@@ -1,0 +1,7 @@
+{
+  "name": "project-food-control",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
